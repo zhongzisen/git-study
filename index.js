@@ -1,3 +1,3 @@
-const name = 'Jone';
+export const name = 'Jone';
 
-export default name;
+export const age = 18;
