@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zhongzisen/git-study#readme",
   "dependencies": {
+    "element": "^0.1.4",
     "lodash": "^4.17.21"
   }
 }
