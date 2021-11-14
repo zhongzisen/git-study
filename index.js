@@ -10,4 +10,4 @@ export const value = 'value';
 
 export const friend = 'Tom';
 
-export const word = 'word';
+export const word = 'word11';
