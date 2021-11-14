@@ -2,11 +2,12 @@ export const friends = [
     {
         name: 'Tom',
         age: 18,
-        sex: 'man'
+        sex: 'man',
+
     },{
         name: 'Jone',
         age: 23,
-        sex: 'woman',
+        sex: 'man',
         birthday: '1998-01-01'
     }
 ];
