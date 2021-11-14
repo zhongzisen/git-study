@@ -4,6 +4,7 @@ export const friends = [
         age: 18,
         sex: 'man'
     },{
-        name: 'Jone'
+        name: 'Jone',
+        age: 23
     }
 ];
